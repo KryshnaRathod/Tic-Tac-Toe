@@ -2,7 +2,7 @@
 function my_code(){
     var name=prompt("Enter your name ");
     if(name!=""){
-        document.getElementById("msg").innerHTML="Hello "+name+" let's play Tic Tac Toe with Sachin Prajapati";
+        document.getElementById("msg").innerHTML="Hello "+name+" let's play Tic Tac Toe with Krishna Rathod ";
         document.getElementById("oppo").innerHTML=name+" symbol - X";
         document.getElementById("me").innerHTML="Krishna Rathod  symbol - O";
     }
