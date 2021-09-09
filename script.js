@@ -4,7 +4,7 @@ function my_code(){
     if(name!=""){
         document.getElementById("msg").innerHTML="Hello "+name+" let's play Tic Tac Toe with Sachin Prajapati";
         document.getElementById("oppo").innerHTML=name+" symbol - X";
-        document.getElementById("me").innerHTML="Sachin Prajapati symbol - O";
+        document.getElementById("me").innerHTML="Krishna Rathod  symbol - O";
     }
     if(name=="" ||name==null){
        my_code();
